@@ -11,6 +11,7 @@
 
 确保 Obsidian 已安装以下插件：
 - **Dataview** - 必要，启用并开启 JavaScript 查询支持
+- **Tasks** - 必要，用来生成todo视图
 - **Templater** - 推荐，用于通过模板创建项目
 - **Completed Task** - 推荐，可以让todo list里做完的任务自动沉底
 
