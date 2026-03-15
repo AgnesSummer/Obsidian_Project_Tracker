@@ -3,8 +3,8 @@
   * Project Tracker模块：只显示active的项目。每个项目利用模板一键生成单独文件，里面管理这个项目的todo，进度条会根据todo /done的数目自动计算
   * Time Tracker模块：只显示active & high 的项目。点一下自动计时+0.5h，生成每周/每月的环形图、时间条。
   * Project List模块：显示所有的项目 
-<img src="./Resources/Demo-pic.png" alt="面板截图" width="30%">
 
+<img src="./Resources/Demo-pic.png" height="300"> <img src="./Resources/Demo-project-list.png" height="300">
 
 ## Setup
 ### 1. check依赖插件
